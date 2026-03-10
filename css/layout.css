@@ -1,0 +1,42 @@
+/* Estrutura de Layout */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header {
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 1rem 0;
+}
+
+header nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header ul {
+    display: flex;
+    gap: 20px;
+}
+
+.hero {
+    padding: 100px 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+footer {
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 2rem 0;
+    text-align: center;
+    margin-top: 50px;
+}
