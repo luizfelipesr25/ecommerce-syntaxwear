@@ -51,4 +51,4 @@ Este projeto faz parte da trilha de aprendizado do curso **DevQuest**, focado em
 
 ---
 
-Desenvolvido por **[Seu Nome]** - Conecte-se comigo no LinkedIn.
+Desenvolvido por **Luiz Felipe da Silva Rocha** - Conecte-se comigo no <a href= "https://www.linkedin.com/in/luizfelipedasilvarocha/" target="_blank">LinkedIn</a>.
