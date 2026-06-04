@@ -45,7 +45,7 @@ ecommerce-syntaxwear/
    ```
 3. Abra o arquivo `index.html` em seu navegador de preferência ou utilize a extensão **Live Server** do VS Code para uma melhor experiência de desenvolvimento.
 
-## 🎓 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto faz parte da trilha de aprendizado do curso **DevQuest**, focado em consolidar conhecimentos de desenvolvimento web e criar aplicações reais para o mercado.
 
