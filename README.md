@@ -37,7 +37,7 @@ ecommerce-syntaxwear/
 
 1. Clone este repositório em sua máquina:
    ```bash
-   git clone https://github.com/seu-usuario/ecommerce-syntaxwear.git
+   git clone https://github.com/seu-usuario/ecommerce-syntaxwear
    ```
 2. Acesse a pasta do projeto:
    ```bash
