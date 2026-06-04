@@ -2,7 +2,7 @@
 
 O **SyntaxWear** é uma plataforma de e-commerce moderna e responsiva, desenvolvida especialmente para o público apaixonado por tecnologia. O projeto simula uma experiência completa de compra de vestuário, desde a navegação em catálogo até o gerenciamento do carrinho.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 O projeto foi construído utilizando as melhores práticas de desenvolvimento front-end:
 
@@ -11,7 +11,7 @@ O projeto foi construído utilizando as melhores práticas de desenvolvimento fr
 - **JavaScript (ES6+):** Lógica dinâmica para manipulação do DOM e controle do carrinho de compras.
 - **Google Fonts:** Tipografia otimizada para leitura.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Catálogo de Produtos:** Exibição dinâmica de itens com imagens, preços e descrições.
 - **Carrinho de Compras:**
@@ -21,7 +21,7 @@ O projeto foi construído utilizando as melhores práticas de desenvolvimento fr
 - **Responsividade:** Design adaptado para dispositivos móveis, tablets e desktops.
 - **Filtros por Categoria:** Facilidade para encontrar tipos específicos de roupas e acessórios.
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 ecommerce-syntaxwear/
@@ -33,7 +33,7 @@ ecommerce-syntaxwear/
 └── README.md          # Documentação do projeto
 ```
 
-## 🔧 Como Executar
+## Como Executar
 
 1. Clone este repositório em sua máquina:
    ```bash
@@ -45,7 +45,7 @@ ecommerce-syntaxwear/
    ```
 3. Abra o arquivo `index.html` em seu navegador de preferência ou utilize a extensão **Live Server** do VS Code para uma melhor experiência de desenvolvimento.
 
-## 🎓 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto faz parte da trilha de aprendizado do curso **DevQuest**, focado em consolidar conhecimentos de desenvolvimento web e criar aplicações reais para o mercado.
 
